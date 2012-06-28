@@ -1,0 +1,4 @@
+(N)ode (B)ackbone (J)asmine (S)keleton
+
+This is the barebones directory structure to use as a base for building BackboneJS apps on top of a Node.js API using MongoDB for storage and Jasmine for testing.
+
