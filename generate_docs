@@ -1,0 +1,5 @@
+echo "Generating docs with docco..."
+docco -o docs/js/lib public/js/lib/*.js;
+docco -o docs/js/models/ public/js/models/*.js;
+docco -o docs/js/views/ public/js/views/*.js;
+docco -o docs/js/ public/js/*.js;
