@@ -1,4 +1,3 @@
-(N)ode (B)ackbone (J)asmine (S)keleton
+AllHandsAttendance is a attendance tracking webapp that also sends attendees emails containing their attendance history.
 
-This is the barebones directory structure to use as a base for building BackboneJS apps on top of a Node.js API using MongoDB for storage and Jasmine for testing.
-
+This was developed to help <a href="http://allhandsactive.com">AllHandsActive</a> (a hackerspace in Ann Arbor, MI) track attendance at their classes and events.
